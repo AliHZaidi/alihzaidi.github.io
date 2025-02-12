@@ -1,14 +1,24 @@
 ---
-title: "Paper Title Number 3"
+title: "App-Based Task Shortcuts for Virtual Assistants"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: /publication/App-based-task-shortcuts
+excerpt: 'Virtual assistants like Google Assistant and Siri often interface with
+external apps when they cannot directly perform a task. Currently,
+developers must manually expose the capabilities of their apps to
+virtual assistants, using App Actions on Android or Shortcuts on
+iOS. This paper presents savant, a system that automatically generates task shortcuts for virtual assistants by mapping user tasks
+to relevant UI screens in apps. For a given natural language task
+(e.g., “send money to Joe”), savant leverages text and semantic
+information contained within UIs to identify relevant screens, and
+intent modeling to parse and map entities (e.g., “Joe”) to required
+UI inputs. Therefore, savant allows virtual assistants to interface
+with apps and handle new tasks without requiring any developer
+efort. To evaluate savant, we performed a user study to identify common tasks users perform with virtual assistants. We then
+demonstrate that savant can fnd relevant app screens for those
+tasks and autocomplete the UI inputs.'
 date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: '34th Annual ACM Symposium on User Interface Software and Technology (UIST)'
+paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3472749.3474808'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
