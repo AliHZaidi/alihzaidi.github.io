@@ -1,15 +1,14 @@
-
 ---
-title: "App-Based Task Shortcuts for Virtual Assistants"
-category: manuscripts
+title: "Paper Title Number 3"
 collection: publications
-permalink: /publication/App-based-task-shortcuts
-date: 2021-10-10
-venue: '34th Annual ACM Symposium on User Interface Software and Technology (UIST)'
-paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3472749.3474808'
-citation: 'Deniz Arsan, Ali Zaidi, Aravind Sagar, and Ranjitha Kumar. 2021. App-Based Task Shortcuts for Virtual Assistants. In The 34th Annual ACM Symposium on User Interface Software and Technology (UIST '21). Association for Computing Machinery, New York, NY, USA, 1089–1099. https://doi.org/10.1145/3472749.3474808'
+category: manuscripts
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-test1
-
-
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
