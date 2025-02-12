@@ -1,6 +1,7 @@
 ---
 title: "App-Based Task Shortcuts for Virtual Assistants"
 collection: publications
+category: conferences
 permalink: /publication/App-based-task-shortcuts
 excerpt: 'Virtual assistants like Google Assistant and Siri often interface with
 external apps when they cannot directly perform a task. Currently,
