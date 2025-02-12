@@ -17,7 +17,7 @@ with apps and handle new tasks without requiring any developer
 efort. To evaluate savant, we performed a user study to identify common tasks users perform with virtual assistants. We then
 demonstrate that savant can fnd relevant app screens for those
 tasks and autocomplete the UI inputs.'
-date: 2015-10-01
+date: 2021-10-10
 venue: '34th Annual ACM Symposium on User Interface Software and Technology (UIST)'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3472749.3474808'
 ---
