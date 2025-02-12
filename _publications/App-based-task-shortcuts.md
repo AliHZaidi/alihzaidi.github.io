@@ -1,5 +1,6 @@
 ---
 title: "App-Based Task Shortcuts for Virtual Assistants"
+category: manuscripts
 collection: publications
 permalink: /publication/App-based-task-shortcuts
 date: 2021-10-10
