@@ -1,4 +1,3 @@
-
 ---
 title: "App-Based Task Shortcuts for Virtual Assistants"
 collection: publications
