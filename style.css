@@ -170,3 +170,95 @@ footer {
     color: gray;
 }
 
+
+/* Mobile Responsiveness Additions */
+@media screen and (max-width: 768px) {
+    /* Navbar Adjustments */
+    .nav-container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .nav-links {
+        flex-direction: column;
+        gap: 10px;
+        width: 100%;
+        padding: 10px 0;
+    }
+
+    .nav-links li {
+        width: 100%;
+    }
+
+    .nav-links a {
+        display: block;
+        padding: 10px;
+        width: 100%;
+    }
+
+    /* About Section Mobile Layout */
+    .about-container {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .profile-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .contact-info {
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .about-text {
+        text-align: center;
+    }
+
+    /* Make sections full-width on mobile */
+    .flex-panel {
+        padding: 30px 15px;
+        width: calc(100% - 30px);
+        box-sizing: border-box;
+    }
+
+    /* Adjust font sizes for mobile */
+    .logo {
+        font-size: 1.5rem;
+    }
+
+    .section-header {
+        font-size: 1.5rem;
+    }
+
+    section {
+        scroll-margin-top: 80px; /* Adjust this value to match the height of your navbar */
+    }
+
+    /* Social Links Adjustment */
+    .footer-social-links a {
+        margin: 0 5px;
+        font-size: 1.3rem;
+    }
+}
+
+/* Additional Touch-Friendly Improvements */
+body {
+    touch-action: manipulation; /* Prevent double-tap zoom on mobile */
+}
+
+input, select, textarea, button {
+    touch-action: manipulation;
+}
+
+/* Prevent text scaling on mobile rotation */
+@media screen and (max-width: 768px) {
+    html {
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+    }
+}
+
